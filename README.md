@@ -8,8 +8,10 @@ additional features : who prefers name
 output : pick from list of names.
 alternative : generate name
 
-Extracting Syllables
-http://www.nltk.org/
+Extracting Syllables:
+
+http://www.nltk.org
+
 http://stackoverflow.com/questions/405161/detecting-syllables-in-a-word
 ```
 from nltk.corpus import cmudict
